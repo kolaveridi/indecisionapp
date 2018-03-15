@@ -1,0 +1,15 @@
+.remove{
+  color: #000000;
+}
+.remove.relative{
+  position: relative;
+
+}
+.removeall{
+  color: #990099;
+
+  margin-bottom: 10px;
+  margin-top: 10px;
+
+
+}
